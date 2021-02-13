@@ -99,5 +99,15 @@ article {
 h3 {
   margin: 0;
 }
+
+#scroll-trigger {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 150px;
+  font-size: 2rem;
+  color: #efefef;
+}
 </style>
 
